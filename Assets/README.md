@@ -7,6 +7,7 @@ Por enquanto, para resolver o problema, criei o script TeleporteParaOutraCena.cs
 **Se você é um dos azarados que teve problemas com o TransitionPoint, veja abaixo como resolver:**
 
 Primeiro, selecione o TeleporterFIM na hierarquira do Unity:
+
 ![Passo1](passo1.PNG)
 
 No Inspector, no bloco onde está o transition point, clique na engrenagem e depois em "Remove Component":
