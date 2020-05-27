@@ -5,12 +5,11 @@
 ## Ellie fará seu primeiro jogo brilhar!
 
 Nesse repositório você vai encontrar todo o "código" demonstrado no tutorial *Como fazer um JOGO 2D em 1 hora!*
-![Primeiro Game 2D](/primeiro-game-2d.PNG)
 
 ## Link para o tutorial
 
 Para ver o tutorial, basta entrar nesse link:
-[Como fazer um JOGO 2D em 1 hora!](https://www.youtube.com/watch?v=9AYije2GMEA)
+[![Primeiro Game 2D](/maxresdefault.jpg)](https://youtu.be/9AYije2GMEA)
 
 
 ## Abrindo no Unity
@@ -18,7 +17,9 @@ Para ver o tutorial, basta entrar nesse link:
 Para abrir esse projeto no Unity, abra o UnityHub, clique em **Open** e selecione o diretório raíz (onde estão a pasta Assets e ProjectSettings).
 ![UnityHub](/git.png)
 
-# O melhor curso de programação das galáxias!
+## Servidor do Discord
+
+Dúvidas? Procure ajuda no nosso Discord: https://discord.gg/kEjJ8ax
 
 ## Modo de uso desse repositório
 
@@ -29,7 +30,6 @@ As pastas estão divididas em Aulas e AulasExtra. As aulas extras são assuntos 
 ## 1. Baixe a última versão do Git para seu sistema operacional em:
 
     https://git-scm.com/downloads
-
 
 ### 2. Após a instalação, você tem algumas opções dependendo do que pretende fazer: Fork ou Clone
 
